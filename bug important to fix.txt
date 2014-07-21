@@ -1,0 +1,165 @@
+negoactions Offer {"Salary":"20,000 NIS"}
+The opponent did these negotiation actions: {"Offer":{"Salary":"12,000 NIS"}}
+-------------------------------------------
+{ Salary: '12,000 NIS' }
+opponent offer this!
+------------------------------------------------------------
+{ Salary: '12,000 NIS' }
+OPPONENT OFFER ACCEPTED!
+------------------------------------------------------------
+current agreement:
+[ { name: 'Salary', value: '12,000 NIS' } ]
+------------------------------------------------------------
+left to agree on:
+[ 'Job Description',
+  'Leased Car',
+  'Pension Fund',
+  'Promotion Possibilities',
+  'Working Hours' ]
+------------------------------------------------------------
+The opponent did these negotiation actions: {"Offer":{"Job Description":"Programmer"}}
+-------------------------------------------
+{ 'Job Description': 'Programmer' }
+opponent offer this!
+------------------------------------------------------------
+{ 'Job Description': 'Programmer' }
+OPPONENT OFFER ACCEPTED!
+------------------------------------------------------------
+current agreement:
+[ { name: 'Salary', value: '12,000 NIS' },
+  { name: 'Job Description', value: 'Programmer' } ]
+------------------------------------------------------------
+left to agree on:
+[ 'Leased Car',
+  'Pension Fund',
+  'Promotion Possibilities',
+  'Working Hours' ]
+------------------------------------------------------------
+agentThreshold --- 512.329756
+A turn has ended: 2
+The opponent did these negotiation actions: {"Offer":{"Working Hours":"9 hours","Pension Fund":"10%"}}
+-------------------------------------------
+{ 'Pension Fund': '10%', 'Working Hours': '9 hours' }
+opponent offer this!
+------------------------------------------------------------
+couldn't find an acceptable bid with the current term
+[ { name: 'Salary', value: '12,000 NIS' },
+  { name: 'Job Description', value: 'Programmer' } ]
+{ 'Pension Fund': '10%', 'Working Hours': '9 hours' }
+------------------------------------------------------------
+agentThreshold --- 529.457166
+couldn't find an acceptable bid with the current term
+[ { name: 'Salary', value: '12,000 NIS' } ]
+{ 'Pension Fund': '10%', 'Working Hours': '9 hours' }
+------------------------------------------------------------
+agentThreshold --- 529.457166
+find an acceptable bid with the current term
+{ bid:
+   { Salary: '20,000 NIS',
+     'Job Description': 'Project Manager',
+     'Leased Car': 'With leased car',
+     'Pension Fund': '10%',
+     'Promotion Possibilities': 'Fast promotion track',
+     'Working Hours': '9 hours' },
+  utilMe: 555,
+  utilOppShort: 330,
+  utilOppComp: 450,
+  utilOppLong: 325 }
+------------------------------------------------------------
+[ { name: 'Salary', value: '12,000 NIS' },
+  { name: 'Job Description', value: 'Programmer' } ]
+------------------------------------------------------------
+[ { name: 'Pension Fund', value: '10%' },
+  { name: 'Working Hours', value: '9 hours' },
+  { name: 'Salary', value: '20,000 NIS' } ]
+************** self.B **************
+OPPONENT OFFER DENIED OFFERING SOMETHING ELSE!
+------------------------------------------------------------
+The opponent did these negotiation actions: {"Offer":{"Salary":"12,000 NIS"}}
+-------------------------------------------
+{ Salary: '12,000 NIS' }
+opponent offer this!
+------------------------------------------------------------
+couldn't find an acceptable bid with the current term
+[ { name: 'Job Description', value: 'Programmer' } ]
+{ Salary: '12,000 NIS' }
+------------------------------------------------------------
+agentThreshold --- 529.457166
+find an acceptable bid with the current term
+{ bid:
+   { Salary: '12,000 NIS',
+     'Job Description': 'Project Manager',
+     'Leased Car': 'With leased car',
+     'Pension Fund': '20%',
+     'Promotion Possibilities': 'Fast promotion track',
+     'Working Hours': '8 hours' },
+  utilMe: 595,
+  utilOppShort: 290,
+  utilOppComp: 370,
+  utilOppLong: 330 }
+------------------------------------------------------------
+[ { name: 'Job Description', value: 'Programmer' } ]
+------------------------------------------------------------
+[ { name: 'Salary', value: '12,000 NIS' },
+  { name: 'Job Description', value: 'Project Manager' } ]
+************** self.B **************
+OPPONENT OFFER DENIED OFFERING SOMETHING ELSE!
+------------------------------------------------------------
+The opponent did these negotiation actions: {"Offer":{"Salary":"12,000 NIS"}}
+-------------------------------------------
+{ Salary: '12,000 NIS' }
+opponent offer this!
+------------------------------------------------------------
+couldn't find an acceptable bid with the current term
+[ { name: 'Job Description', value: 'Programmer' } ]
+{ Salary: '12,000 NIS' }
+------------------------------------------------------------
+agentThreshold --- 529.457166
+find an acceptable bid with the current term
+{ bid:
+   { Salary: '12,000 NIS',
+     'Job Description': 'Project Manager',
+     'Leased Car': 'With leased car',
+     'Pension Fund': '20%',
+     'Promotion Possibilities': 'Fast promotion track',
+     'Working Hours': '8 hours' },
+  utilMe: 595,
+  utilOppShort: 290,
+  utilOppComp: 370,
+  utilOppLong: 330 }
+------------------------------------------------------------
+[ { name: 'Job Description', value: 'Programmer' } ]
+------------------------------------------------------------
+[ { name: 'Salary', value: '12,000 NIS' },
+  { name: 'Job Description', value: 'Project Manager' } ]
+************** self.B **************
+OPPONENT OFFER DENIED OFFERING SOMETHING ELSE!
+------------------------------------------------------------
+The opponent did these negotiation actions: {"Offer":{"Job Description":"Programmer"}}
+-------------------------------------------
+{ 'Job Description': 'Programmer' }
+opponent offer this!
+------------------------------------------------------------
+[]
+------------------------------------------------------------
+[]
+************** self.B **************
+OPPONENT OFFER DENIED!
+------------------------------------------------------------
+[]
+------------------------------------------------------------
+[]
+************** self.B **************
+OPPONENT OFFER DENIED - GO BACK TO THE WAY IT WAS!
+------------------------------------------------------------
+The opponent did these negotiation actions: {"Query":"bid"}
+-------------------------------------------
+  QUERY bid
+
+C:\Users\VPS3047Admin\Documents\GitHub\agents\type\NegoChatAgent.js:242
+      self.removeFromSearchCluster(self.temp.bid[self.gole]);
+                                            ^
+TypeError: Cannot read property 'bid' of undefined
+    at Object.NegoChatAgent.pickBidForYou (C:\Users\VPS3047Admin\Documents\GitHub\agents\type\NegoChatAgent.js:242:45)
+    at null._onTimeout (C:\Users\VPS3047Admin\Documents\GitHub\agents\EchoAgent.js:178:25)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:110:15)

@@ -1,0 +1,684 @@
+""
+the agent threshold for the 1turn is 
+"529.457166"
+------------------------------------
+"29:05"
+they agreed on 
+[]
+------------------------------------
+"29:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"29:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":630,"utilOppShort":230,"utilOppComp":390,"utilOppLong":345}
+------------------------------------
+"29:05"
+============================ 
+""
+------------------------------------
+"28:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"28:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":630,"utilOppShort":230,"utilOppComp":390,"utilOppLong":345}
+------------------------------------
+"28:35"
+============================ 
+""
+------------------------------------
+"28:35"
+they agreed on 
+[]
+------------------------------------
+"28:00"
+the agent threshold for the 2turn is 
+"556.840987"
+------------------------------------
+"27:05"
+they agreed on 
+[]
+------------------------------------
+"27:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Programmer"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"27:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Programmer","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":605,"utilOppShort":310,"utilOppComp":410,"utilOppLong":435}
+------------------------------------
+"27:05"
+============================ 
+""
+------------------------------------
+"26:35"
+they agreed on 
+[]
+------------------------------------
+"26:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Programmer"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"26:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Programmer","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":605,"utilOppShort":310,"utilOppComp":410,"utilOppLong":435}
+------------------------------------
+"26:35"
+============================ 
+""
+------------------------------------
+"26:00"
+the agent threshold for the 3turn is 
+"533.077999"
+------------------------------------
+"25:35"
+they agreed on 
+[]
+------------------------------------
+"25:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Team Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"25:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Team Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":615,"utilOppShort":270,"utilOppComp":410,"utilOppLong":405}
+------------------------------------
+"25:35"
+============================ 
+""
+------------------------------------
+"25:05"
+they agreed on 
+[]
+------------------------------------
+"25:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Team Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"25:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Team Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":615,"utilOppShort":270,"utilOppComp":410,"utilOppLong":405}
+------------------------------------
+"25:05"
+============================ 
+""
+------------------------------------
+"24:00"
+the agent threshold for the 4turn is 
+"511.410586"
+------------------------------------
+"23:35"
+they agreed on 
+[]
+------------------------------------
+"23:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Team Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"23:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Team Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":615,"utilOppShort":270,"utilOppComp":410,"utilOppLong":405}
+------------------------------------
+"23:35"
+============================ 
+""
+------------------------------------
+"22:35"
+they agreed on 
+[]
+------------------------------------
+"22:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Team Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"22:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Team Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":615,"utilOppShort":270,"utilOppComp":410,"utilOppLong":405}
+------------------------------------
+"22:35"
+============================ 
+""
+------------------------------------
+"22:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Team Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"22:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Team Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":615,"utilOppShort":270,"utilOppComp":410,"utilOppLong":405}
+------------------------------------
+"22:05"
+============================ 
+""
+------------------------------------
+"22:05"
+they agreed on 
+[]
+------------------------------------
+"22:00"
+the agent threshold for the 5turn is 
+"488.717159"
+------------------------------------
+"21:05"
+they agreed on 
+[]
+------------------------------------
+"21:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"21:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":630,"utilOppShort":230,"utilOppComp":390,"utilOppLong":345}
+------------------------------------
+"21:05"
+============================ 
+""
+------------------------------------
+"20:35"
+they agreed on 
+[]
+------------------------------------
+"20:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"20:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":630,"utilOppShort":230,"utilOppComp":390,"utilOppLong":345}
+------------------------------------
+"20:35"
+============================ 
+""
+------------------------------------
+"20:05"
+they agreed on 
+[]
+------------------------------------
+"20:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"20:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":630,"utilOppShort":230,"utilOppComp":390,"utilOppLong":345}
+------------------------------------
+"20:05"
+============================ 
+""
+------------------------------------
+"20:00"
+the agent threshold for the 6turn is 
+"470.486508"
+------------------------------------
+"19:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":630,"utilOppShort":230,"utilOppComp":390,"utilOppLong":345}
+------------------------------------
+"19:35"
+============================ 
+""
+------------------------------------
+"19:35"
+they agreed on 
+[]
+------------------------------------
+"19:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"18:35"
+they agreed on 
+[]
+------------------------------------
+"18:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"18:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":630,"utilOppShort":230,"utilOppComp":390,"utilOppLong":345}
+------------------------------------
+"18:35"
+============================ 
+""
+------------------------------------
+"18:05"
+they agreed on 
+[]
+------------------------------------
+"18:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"18:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":630,"utilOppShort":230,"utilOppComp":390,"utilOppLong":345}
+------------------------------------
+"18:05"
+============================ 
+""
+------------------------------------
+"18:00"
+the agent threshold for the 7turn is 
+"435.210011"
+------------------------------------
+"17:35"
+they agreed on 
+[]
+------------------------------------
+"17:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"17:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":630,"utilOppShort":230,"utilOppComp":390,"utilOppLong":345}
+------------------------------------
+"17:35"
+============================ 
+""
+------------------------------------
+"16:35"
+they agreed on 
+[]
+------------------------------------
+"16:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"16:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":630,"utilOppShort":230,"utilOppComp":390,"utilOppLong":345}
+------------------------------------
+"16:35"
+============================ 
+""
+------------------------------------
+"16:05"
+they agreed on 
+[]
+------------------------------------
+"16:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Slow promotion track"}]
+------------------------------------
+"16:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Slow promotion track","Working Hours":"8 hours"},"utilMe":630,"utilOppShort":230,"utilOppComp":390,"utilOppLong":345}
+------------------------------------
+"16:05"
+============================ 
+""
+------------------------------------
+"16:00"
+the agent threshold for the 8turn is 
+"416.160401"
+------------------------------------
+"15:35"
+they agreed on 
+[]
+------------------------------------
+"15:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"15:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"15:35"
+============================ 
+""
+------------------------------------
+"15:05"
+they agreed on 
+[]
+------------------------------------
+"15:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"15:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"15:05"
+============================ 
+""
+------------------------------------
+"14:35"
+they agreed on 
+[]
+------------------------------------
+"14:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"14:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"14:35"
+============================ 
+""
+------------------------------------
+"14:00"
+the agent threshold for the 9turn is 
+"394.306944"
+------------------------------------
+"13:35"
+they agreed on 
+[]
+------------------------------------
+"13:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"13:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"13:35"
+============================ 
+""
+------------------------------------
+"12:35"
+they agreed on 
+[]
+------------------------------------
+"12:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"12:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"12:35"
+============================ 
+""
+------------------------------------
+"12:05"
+they agreed on 
+[]
+------------------------------------
+"12:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"12:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"12:05"
+============================ 
+""
+------------------------------------
+"12:00"
+the agent threshold for the 10turn is 
+"359.353974"
+------------------------------------
+"11:35"
+they agreed on 
+[]
+------------------------------------
+"11:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"11:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"11:35"
+============================ 
+""
+------------------------------------
+"10:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"10:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"10:35"
+============================ 
+""
+------------------------------------
+"10:35"
+they agreed on 
+[]
+------------------------------------
+"10:00"
+the agent threshold for the 11turn is 
+"348.076063"
+------------------------------------
+"9:35"
+they agreed on 
+[]
+------------------------------------
+"9:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"9:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"9:35"
+============================ 
+""
+------------------------------------
+"8:35"
+they agreed on 
+[]
+------------------------------------
+"8:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"8:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"8:35"
+============================ 
+""
+------------------------------------
+"8:05"
+they agreed on 
+[]
+------------------------------------
+"8:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"8:05"
+============================ 
+""
+------------------------------------
+"8:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"8:00"
+the agent threshold for the 12turn is 
+"326.776861"
+------------------------------------
+"7:35"
+they agreed on 
+[]
+------------------------------------
+"7:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"7:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"7:35"
+============================ 
+""
+------------------------------------
+"6:35"
+they agreed on 
+[]
+------------------------------------
+"6:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"6:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"6:35"
+============================ 
+""
+------------------------------------
+"6:05"
+they agreed on 
+[]
+------------------------------------
+"6:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"6:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"6:05"
+============================ 
+""
+------------------------------------
+"6:00"
+the agent threshold for the 13turn is 
+"288.774631"
+------------------------------------
+"5:35"
+they agreed on 
+[]
+------------------------------------
+"5:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"5:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"5:35"
+============================ 
+""
+------------------------------------
+"4:35"
+they agreed on 
+[]
+------------------------------------
+"4:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"4:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"4:35"
+============================ 
+""
+------------------------------------
+"4:05"
+they agreed on 
+[]
+------------------------------------
+"4:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"4:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"4:05"
+============================ 
+""
+------------------------------------
+"4:00"
+the agent threshold for the 14turn is 
+"56.000000"
+------------------------------------
+"3:35"
+they agreed on 
+[]
+------------------------------------
+"3:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"3:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"3:35"
+============================ 
+""
+------------------------------------
+"2:35"
+they agreed on 
+[]
+------------------------------------
+"2:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"2:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"2:35"
+============================ 
+""
+------------------------------------
+"2:05"
+they agreed on 
+[]
+------------------------------------
+"2:05"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"2:05"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"2:05"
+============================ 
+""
+------------------------------------
+"2:00"
+the agent threshold for the 15turn is 
+"288.774631"
+------------------------------------
+"1:35"
+they agreed on 
+[]
+------------------------------------
+"1:35"
+the agent's offer is 
+[{"name":"Salary","value":"20,000 NIS"},{"name":"Job Description","value":"Project Manager"},{"name":"Pension Fund","value":"20%"},{"name":"Working Hours","value":"8 hours"},{"name":"Leased Car","value":"With leased car"},{"name":"Promotion Possibilities","value":"Fast promotion track"}]
+------------------------------------
+"1:35"
+ BASED ON THAT BID (line 136) 
+{"bid":{"Salary":"20,000 NIS","Job Description":"Project Manager","Leased Car":"With leased car","Pension Fund":"20%","Promotion Possibilities":"Fast promotion track","Working Hours":"8 hours"},"utilMe":635,"utilOppShort":230,"utilOppComp":350,"utilOppLong":285}
+------------------------------------
+"1:35"
+============================ 
+""
+------------------------------------
